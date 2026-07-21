@@ -1,4 +1,4 @@
-# Hand Filter
+# Handtracked VFX
 
 A hand-tracked visual effect in TouchDesigner, inspired by the "manual tracking" trend seen on Instagram/TikTok. A quad is corner-pinned between three finger-pairs on each hand (thumb–index, index–middle, middle–pinky), masking a filtered copy of the webcam feed with a white outline on top.
 
